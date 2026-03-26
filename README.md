@@ -1,0 +1,1 @@
+# FiveM-script-template
